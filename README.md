@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @PAGMAYouTube
-- 👀 I am a 3D artist who has been using Blender 3D (blender.org) for the past 2-3 years.
+- 👀 I am a 3D artist who has been using Blender 3D (blender.org) for the past 2-3 years. I also know C# and Java.
 - 💞️ I am currently looking for 3D arists and Unreal Develepers to help me create a big project.
 - 📫 You can contant me at emailpamga@gmail.com
 
